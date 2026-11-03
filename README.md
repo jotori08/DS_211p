@@ -5,6 +5,7 @@
 
 import pandas as pd
 import numpy as np
-df = pd.read_csv('/content/DS_211p/Country.csv')
-df
+import matplotlib.pyplot as plt
+data = pd.read_csv('/content/DS_211p/Country.csv')
+data
 ```
